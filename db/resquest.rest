@@ -1,0 +1,3 @@
+GET http://localhost:9000/posts
+Authorization: Bearer
+eyJhbGciOiJIUzI1NiJ9.NjZhODk2OWJmZDAwNmU3MmVjYjlmMTRj.Ndj059D3Fifq9_wrclYYVxY0ykk9FJXyajWKbowLzqA
